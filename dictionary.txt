@@ -1,0 +1,24 @@
+Raesfeld              - Raesfeld (Municipality in Germany)
+Flughafen             - Airport
+Berlin                - Berlin (Capital of Germany)
+Bratwurst             - Bratwurst, Sausage
+Hauptstrasse          - Main Street, Main Road
+Brot                  - Bread
+Klimaanlage           - Air Conditioner, Air Conditioning
+Rammstein             - Rammstein (German Band)
+Porsche               - Porsche (Luxury Car Manufacturer)
+BMW                   - BMW (Car Manufacturer)
+Biergarten            - Beer Garden
+Ratskeller            - Council cellar (also a pub)
+Dirndel               - Dirndl (German folk costume)
+Lederhose             - Leather Pants
+Schloss               - Castle, Palace
+Wettbewerbsfaehig     - Competitive
+Mehlhase              - Flour Bunny (also a professor at ASU)
+Gebaeck               - Biscuit, cookie
+Baeckerei             - Bakery
+Hund                  - Dog, Hound
+DÃ¶ner                - (Translator came up with Dryer, but that ain't right)
+Apfelkuchen           - Apple Pie, Apple Cake
+Schloss               - Lock
+Eltz                  - Eltz (German noble family of Uradel)
